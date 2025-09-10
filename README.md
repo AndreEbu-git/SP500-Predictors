@@ -16,7 +16,7 @@ The notebook downloads historical S&P 500 data using Yahoo Finance API, processe
 - Evaluates model performance using precision scoring
 
 ## Requirements
-- Python 3.x
+- Python 3+
 
 - pandas
 
